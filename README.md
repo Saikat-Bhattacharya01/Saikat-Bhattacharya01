@@ -10,7 +10,7 @@ Passionate about applying technical and analytical skills to real-world challeng
 - **Databases:** MySQL, Oracle Pl/SQL 
 - **Other:** Basic ML, OS, DBMS, OOP, Excel, MS Word, Power Point, PR, Teaching, Canva
 - **Soft Skill:** Teamwork & Leadership, Adaptability & Learning Agility, effective communication, Analytical & Problem
-Solving Abilit
+Solving Ability
 
 ## 📌 Featured Projects
 - 📱 **CropDr** – Crop disease detection using Java
