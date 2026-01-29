@@ -4,7 +4,7 @@ Final-year B.Tech **Computer Science & Engineering** student with strong foundat
 Development. Skilled in problem-solving, teamwork, and leadership through internships, projects, and event coordination.
 Passionate about applying technical and analytical skills to real-world challenges in AI, cloud, and software development.
 
-## KEY EXPERTISE
+## Key Expertise
 - **Languages:** C, C++, Python
 - **Tools:** GitHub, VS Code, Google Colab 
 - **Databases:** MySQL, Oracle Pl/SQL 
