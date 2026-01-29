@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Saikat 👋
 
-<!--
-**Saikat-Bhattacharya01/Saikat-Bhattacharya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **CSE student & developer** passionate about building cool projects and learning new tech.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Python | JavaScript | C++
+- 🌐 React | HTML | CSS
+- 🧠 Machine Learning | Data Science | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 📱 **CropDr** – Crop disease detection using Java
+- ⭐ **Heart_Disease_Diabetes_Prediction** – ML project to predict health issues
+- 💻 **Netflix Clone UI** – Frontend UI project
+
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+
+
+---
+
+Thanks for visiting! 😊
