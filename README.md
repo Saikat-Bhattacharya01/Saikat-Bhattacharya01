@@ -1,11 +1,14 @@
-# Hi there, I'm Saikat 👋
+# Hi there, I'm Saikat Bhattacharya👋
 
 I'm a **CSE student & developer** passionate about building cool projects and learning new tech.
+Final-year B.Tech Computer Science & Engineering student with strong foundation in Python, Machine Learning, and Web
+Development. Skilled in problem-solving, teamwork, and leadership through internships, projects, and event coordination.
+Passionate about applying technical and analytical skills to real-world challenges in AI, cloud, and software development.
 
-## 🔧 Tech Stack
-- 💻 Python | JavaScript | C++
-- 🌐 React | HTML | CSS
-- 🧠 Machine Learning | Data Science | SQL
+##Languages: C, C++, Python
+Tools: GitHub, VS Code, Google Colab 
+Databases: MySQL, Oracle Pl/SQL 
+Other: Basic ML, OS, DBMS, OOP, Excel, MS Word, Power Point, PR, Teaching, Canva
 
 ## 📌 Featured Projects
 - 📱 **CropDr** – Crop disease detection using Java
